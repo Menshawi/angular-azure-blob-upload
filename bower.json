@@ -1,0 +1,24 @@
+{
+  "name": "ng-azure-blob-upload",
+  "homepage": "https://github.com/Menshawi/angular-azure-blob-upload",
+  "authors": [
+    "kinstephen"
+  ],
+  "description": "Blob uploads to Azure",
+  "main": "azure-blob-upload.js",
+  "keywords": [
+    "azure",
+    "blob",
+    "upload",
+    "angular"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
